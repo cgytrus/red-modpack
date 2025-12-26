@@ -1,0 +1,13 @@
+name = "Soaring Phantoms"
+filename = "soaring_phantoms-1.2.2+1.21.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4Rp6J8P/versions/X6so5AqL/soaring_phantoms-1.2.2%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "e69c117755ae5085c7abc6d6f1c44a732a774c00367fcf90ad0d44733d9fa817fcec58952927a2b1b96f5306a7223ba1445958f577a1ef6f17d278081eb8f352"
+
+[update]
+[update.modrinth]
+mod-id = "d4Rp6J8P"
+version = "X6so5AqL"

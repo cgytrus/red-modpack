@@ -1,0 +1,15 @@
+name = "Spelunkery"
+filename = "spelunkery-1.21.1-0.4.0-BETA1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cgytrus/Spelunkery/releases/download/dev/spelunkery-1.21.1-0.4.0-BETA1-fabric.jar"
+hash-format = "sha256"
+hash = "f1d5af413f021169d357593643eeec73784e2f3a0c9c6a1463094b9b527ce901"
+
+[update]
+[update.github]
+branch = "42a5ef6f2a0c41daa1930b72686506eb551d22ae"
+regex = ".*-fabric\\.jar"
+slug = "cgytrus/Spelunkery"
+tag = "dev"

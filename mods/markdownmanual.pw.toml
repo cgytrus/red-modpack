@@ -1,0 +1,15 @@
+name = "MarkdownManual"
+filename = "markdown_manual-MC1.21.1-fabric-0.0.0+dfa092b.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cgytrus/MarkdownManual/releases/download/dev/markdown_manual-MC1.21.1-fabric-0.0.0%2Bdfa092b.jar"
+hash-format = "sha256"
+hash = "ad6f1bc50213d244b28fda70e2c365949b6c6c721883a22de05f61d9c02316fa"
+
+[update]
+[update.github]
+branch = "75a720d5e59d3d3ab75ecf53de422e9b62685a55"
+regex = ".*-fabric-.*\\.jar"
+slug = "cgytrus/MarkdownManual"
+tag = "dev"
