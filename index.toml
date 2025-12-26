@@ -48,11 +48,6 @@ hash = "a773df76089453f964bf196aae2d9e963d28fa18dde4e1a6ce9260206e6f033a"
 metafile = true
 
 [[files]]
-file = "mods/auto-third-person.pw.toml"
-hash = "868c179bce3f250941940c2eadc0a5bb49831cbd524fa59fbaca5b16ed9654b5"
-metafile = true
-
-[[files]]
 file = "mods/axes-are-weapons.pw.toml"
 hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
 metafile = true
