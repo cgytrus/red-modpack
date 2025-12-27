@@ -14,3 +14,5 @@ version = "akYLpLPq"
 
 [option]
 optional = true
+default = true
+description = "adds 3d models for the wearable backpacks (normally theyre displayed as just 2d items on players backs)"

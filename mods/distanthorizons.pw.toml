@@ -14,3 +14,5 @@ version = "75PXmyqH"
 
 [option]
 optional = true
+default = false
+description = "very large render distances with LODs and good performance, but can still be a bit buggy and/or laggy sometimes"

@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-subtitles.pw.toml"
-hash = "668d976e89f6fa9c2a98d6383b705d78fb99e76f8ef4e402232cc1430d08728f"
+hash = "78ce73a764856f65e20b7085657470884524bf7336f00941132d7d2c871db89c"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "9555e7d2c4bfd48f9235341ff5c149341b2f8c85316e5491a736476a25479647"
+hash = "ba75317dbb178d42cb58e7fdf1bfc7036821998b2773f471f51c3038474eda80"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "aa5d8e44392462bb714887564603eb5bf84d55e314ba61f79306498ff93b1d6c"
+hash = "6a9eec3a92d47bd00e123b729b881fe21fca6b56c302001d6f8f586a2173b887"
 metafile = true
 
 [[files]]
@@ -304,12 +304,12 @@ metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "417bbfab884ae042ab7b0ee560afd49b7fc1d099c151508a937741ae31d3403a"
+hash = "7c8fd823f3e3aae933344e849e62ffd277bb91597898f8547723d58c537762e9"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "925caa2e78c966c65804dd9222f551ce673bba8e30b7bfdd9bbafe0f2afb87a5"
+hash = "a3b32f4ec1ac3ec710904d16084c2631fffb06e49842f07c8a3b7981b1d370f8"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/natural-motion-blur.pw.toml"
-hash = "45175233e110a2e58887390a66f0860326a3b7e2f4e87302be7107eaf7236e6d"
+hash = "2313f3177d380668b5e270e4213940363aec70b8e0d401796a66e3a2d088b8be"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5636681a8ef5588201b7fa1290126339ec272c95f3d825e3b5aae4990170ec53"
+hash = "a4ce074d1b52066ed4cf78ae3631894281ed18ae17198762df8b31d28a162738"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "72c7df71166f492678e47b2093c5f66ea0522baedb2695c85e5657028c3593e7"
+hash = "6aafb5b025485019e3be06210f6b73ee3fb1885abd0eb91f6321a3d9e6fafdce"
 metafile = true
 
 [[files]]
@@ -654,12 +654,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "84b5dbff18fa0b281a5459797fa70342c93ede9dbfcb1fc0f726b2a0e7c5c7c9"
+hash = "be86c46a8ede9c4167ff9c6236ea3f524927ff62dd0b177f22f20438c30894f2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cadf051809b428c2be274a012161eb6de966300a806328e9d4e8792c2b841f28"
+hash = "e8fdacda930a0d27d68f8d29430a25b4d9ab4eff51db1c8c5a1a883eb2e62fcc"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "cf93092927cb12a951e7807d8f5145082658bc012e8a22c8c212cba7b504cab1"
+hash = "8353182861dd90a51e8944102ebc9794b40b22bde89238c8c77b2b78a0c4ddf0"
 metafile = true
 
 [[files]]

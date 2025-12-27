@@ -14,3 +14,4 @@ version = "4IZeSKNU"
 
 [option]
 optional = true
+default = true

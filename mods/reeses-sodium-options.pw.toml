@@ -14,3 +14,5 @@ version = "KoUrx3jJ"
 
 [option]
 optional = true
+default = true
+description = "better looking sodium configuration (video settings) menu, but cooki doesnt like it so its optional"
