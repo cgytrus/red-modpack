@@ -2,11 +2,13 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/TabTPS/display-configs/default.conf"
-hash = "db9d1299eb316426db6816cb304442b19bbcedc9705fc94b8716ecbf1df5f944"
+hash = "a3b3ba72002bb30e1e5f92443f029f213243f321a1e30602a37f010aa4168ef5"
+preserve = true
 
 [[files]]
 file = "config/TabTPS/main.conf"
-hash = "d86f8c25d9e3b088bfd2b33b5563574b2798164442214f773d51f5ca3edf31d2"
+hash = "b1127e542115934bf56770eede77a3a79333fe861ba078190f9f3e8a6718b9f0"
+preserve = true
 
 [[files]]
 file = "config/dark-loading-screen.json"
@@ -29,7 +31,7 @@ preserve = true
 
 [[files]]
 file = "config/vcinteraction/vcinteraction.properties"
-hash = "26ec8566882fc3e697ebdee1ea77f7a93d8521b69a48678c9b844f2c94b9ba92"
+hash = "2ef1eb08f64f31b2a46b8716c9e2c65b66858ec31a1bb94a84446cc1588b4df3"
 preserve = true
 
 [[files]]
