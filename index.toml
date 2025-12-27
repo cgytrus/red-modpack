@@ -23,6 +23,7 @@ preserve = true
 [[files]]
 file = "config/melancholic_hunger.json5"
 hash = "ca4604ef3f300debe105cd6996454647aa36f52a64ad76937623f8c68afb17c7"
+preserve = true
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
@@ -707,3 +708,4 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "3f898225592b3599795b8d18545a3e094de0974f82f90b601b57650f961290b3"
+preserve = true
