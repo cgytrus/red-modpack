@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundle-backportish.pw.toml"
-hash = "8a1905f735611d2b729daa6f3e11abd3c7c44132ae2552869714ff2429c4c6a1"
+hash = "e4f3dbca820a4d86b2a4a6b8a1b6ac27f9ef50513feac9da0e6be9143d5f0ba9"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6a9eec3a92d47bd00e123b729b881fe21fca6b56c302001d6f8f586a2173b887"
+hash = "160a9333652a87200eb72cee3511073734a6e40c0b93ec9800f0a8f8efd43415"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "93a9d609533082c74458d94232b4883d0b77d88176c98a3824e2a5acb1a92d85"
+hash = "3dfa40dd3fd5f597f0f2d253e086d2876e8cfdc0266d74497d03f893611adc4c"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "c53d0aa4607a66c1051824f06bb513e1e5f61e0abc1374cffda5740f06ec47db"
+hash = "5c3a927717eaa6cb668e3d5c94f9d5e933fe49d7b26bfbc6acaadfce916bfe91"
 metafile = true
 
 [[files]]

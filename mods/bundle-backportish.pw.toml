@@ -1,13 +1,13 @@
 name = "Bundle Backport-ish"
-filename = "bundle-backportish-1.1.3+mc1.21.1.jar"
+filename = "bundle-backportish-1.1.4+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/91hOfmS6/versions/WrpTDRhP/bundle-backportish-1.1.3%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/91hOfmS6/versions/2iBt19LI/bundle-backportish-1.1.4%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "71b696e78522f18ac513987d160793dabc2f5dc6fb6286971fd2045e20bca1c6ae58462d86d0c09c83bdf37f3c22c3d21342c907916ed62bc5934e561031e17c"
+hash = "1a319a36ed3585ffe3c91a14da16cc618158df45c0a83f87b3939fafa25f39f6b48722fc712c32856b1acc37412df3edd21430bf4dc688b66754bf7323e462fc"
 
 [update]
 [update.modrinth]
 mod-id = "91hOfmS6"
-version = "WrpTDRhP"
+version = "2iBt19LI"
