@@ -22,7 +22,7 @@ preserve = true
 
 [[files]]
 file = "config/item_descriptions.toml"
-hash = "71c4844a1bfb83c94ad1ac57fc2490f5b15ff6eb2139d7c0cfbba1267bf79676"
+hash = "6af2945aefa354fd9d518ab99ce382559b1a722ec436bf674c1636d7d9033365"
 preserve = true
 
 [[files]]
