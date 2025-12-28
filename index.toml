@@ -636,6 +636,11 @@ hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
+file = "mods/text-customiser.pw.toml"
+hash = "cb5cd03a5a96d0372767d2d5a6a72b422d50bd6b88ae43302842b9af85d49c4b"
+metafile = true
+
+[[files]]
 file = "mods/tis-3d.pw.toml"
 hash = "6e4a6209188ae62c2a16ad6b82ac2fec331b0d4e3d18d29e1249f7737f515464"
 metafile = true
@@ -708,6 +713,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/text-recoloured.pw.toml"
+hash = "05e6b1aaa67c4e83dd0e06c9b945cca64854ee50ef16e63a34438b2d6e33f4a6"
 metafile = true
 
 [[files]]

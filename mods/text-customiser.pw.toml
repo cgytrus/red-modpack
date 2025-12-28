@@ -1,0 +1,13 @@
+name = "Text Customiser"
+filename = "eg_text_customiser-v1.0.0-fabric-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4LTb6RoZ/versions/y3nZl8ag/eg_text_customiser-v1.0.0-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "09204215493e2629bb4c9d9753224bbdb335b69a8e5c58a0db5adaa3ce2f913d0bc9ec3a9b219fec46f1370daaf0cf4844cd1bb565c8c33b793a28db15f4f4d7"
+
+[update]
+[update.modrinth]
+mod-id = "4LTb6RoZ"
+version = "y3nZl8ag"
