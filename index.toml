@@ -21,6 +21,11 @@ hash = "daab78e57ff154d1bcdb5221c58bea4250311935e2fb87d6f5f839be164f32c6"
 preserve = true
 
 [[files]]
+file = "config/item_descriptions.toml"
+hash = "71c4844a1bfb83c94ad1ac57fc2490f5b15ff6eb2139d7c0cfbba1267bf79676"
+preserve = true
+
+[[files]]
 file = "config/melancholic_hunger.json5"
 hash = "ca4604ef3f300debe105cd6996454647aa36f52a64ad76937623f8c68afb17c7"
 preserve = true

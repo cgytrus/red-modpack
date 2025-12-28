@@ -1,12 +1,12 @@
 name = "red"
 author = "congig n cooki"
-version = "1.2.4"
+version = "1.2.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3e656d3f88ade31c5f070fe0ade8dd037f1c6468c0a03e2e400cd0726a15a55b"
+hash = "73fd250f684d2b9ca1d47af0a72decc98c0fbbc653828c840dbe18f826ec4f55"
 
 [versions]
 fabric = "0.18.4"
