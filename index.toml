@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "73c8968e0a12b2303c59f0991290fd0d6d7ac0566299314200beed9777f0fdc8"
+hash = "b237026e1ed2780812c42a4649d7bf4e61d2ec20d09f9677ad8833ac3680a2e5"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "e74bc63f953da6f41e3e0d2dba8f73cf7e8c64cc7760ec7efe81eff4fe32fffd"
+hash = "bfb929ba8a82c7e8c57587909bdb8beaf269291a9a384ba9995e50b541eee5a1"
 metafile = true
 
 [[files]]
