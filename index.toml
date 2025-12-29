@@ -16,6 +16,10 @@ hash = "cb4500506a220507350c2eb370073da4b558183e4e3f53d0aa19fe7fe76cf649"
 preserve = true
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "17534f2cc954195731ab66f5113cfe1ff58eaf9f78f4345a09219a36e54a20d0"
+
+[[files]]
 file = "config/headpats.json"
 hash = "daab78e57ff154d1bcdb5221c58bea4250311935e2fb87d6f5f839be164f32c6"
 preserve = true
@@ -39,6 +43,10 @@ preserve = true
 file = "config/vcinteraction/vcinteraction.properties"
 hash = "26ec8566882fc3e697ebdee1ea77f7a93d8521b69a48678c9b844f2c94b9ba92"
 preserve = true
+
+[[files]]
+file = "globalpacks/resources/Tasty Items for Eating Animation.zip"
+hash = "a65f3f46b7d9481a4eebb23c8fa339413f6d2c8cfc5a59af707683663d0d8a51"
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -176,6 +184,11 @@ hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
@@ -273,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "733f8959368ac02bc9703b85bf6e615daa85aeb9254aaa07eba4a0692922d794"
 metafile = true
 
 [[files]]
