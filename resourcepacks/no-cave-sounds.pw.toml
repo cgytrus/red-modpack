@@ -1,0 +1,13 @@
+name = "No Cave Sounds"
+filename = "No Cave Sounds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wIvmxGQM/versions/jCtIBfe0/No%20Cave%20Sounds.zip"
+hash-format = "sha512"
+hash = "cb4b08553732de30b66045d835f8e536894dd0537c6596e063ec4eba7e4143d1fc4f9c4fbbfe408daa64130acd94fa8bac08c76cbc98b010f3a595309103166f"
+
+[update]
+[update.modrinth]
+mod-id = "wIvmxGQM"
+version = "jCtIBfe0"

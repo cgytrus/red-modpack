@@ -49,6 +49,11 @@ file = "globalpacks/resources/Tasty Items for Eating Animation.zip"
 hash = "a65f3f46b7d9481a4eebb23c8fa339413f6d2c8cfc5a59af707683663d0d8a51"
 
 [[files]]
+file = "globalpacks/resources/text-recoloured.pw.toml"
+hash = "05e6b1aaa67c4e83dd0e06c9b945cca64854ee50ef16e63a34438b2d6e33f4a6"
+metafile = true
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "85e82cbf77679afdfecd780c72b5d94b444af325676bdeb836b7ebd5989ee03d"
 metafile = true
@@ -734,8 +739,13 @@ hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/text-recoloured.pw.toml"
-hash = "05e6b1aaa67c4e83dd0e06c9b945cca64854ee50ef16e63a34438b2d6e33f4a6"
+file = "resourcepacks/minimal-armor-countxd.pw.toml"
+hash = "f514ab31a7afd2b5d34a6085baf4203931bf2a2fb07a5d14d501cd8fbd6fbc98"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-cave-sounds.pw.toml"
+hash = "f2ad893f6837b58fc85c20162b23b88ad6def68dd2c21dc56833fc978102e617"
 metafile = true
 
 [[files]]
