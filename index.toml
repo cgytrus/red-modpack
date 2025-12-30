@@ -229,6 +229,11 @@ hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "5f5d25d13e3640d0eaaea0a7a00edcb5aa74a4e12c593e8e24bab254f32916d9"
 metafile = true
