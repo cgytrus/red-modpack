@@ -1,0 +1,25 @@
+name = "Delight-(down)map"
+filename = "delight-map-fabric-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/cgytrus/delight-map/releases/download/v1.0.0/delight-map-fabric-1.0.0.jar"
+hash-format = "sha256"
+hash = "a8303e82ff3912591ab448335873457c60f4f4e79b90148a252b63a6022cccbc"
+
+[update]
+[update.github]
+branch = "main"
+regex = ".*-fabric-[0-9]+\\.[0-9]+\\.[0-9]+\\.jar"
+slug = "cgytrus/delight-map"
+tag = "v1.0.0"
+
+[option]
+optional = true
+default = true
+description = '''
+port of Delight-map to 1.21.1 as a mod
+tweaks the lightmap to make lighting more pretty without shaders
+original author recommends setting your brightness to 25-35% but any brightness still works just fine if you feel its too dark or too bright
+1.21.2+ rp if u wanna check out the gallery or use it in a different instance: https://modrinth.com/resourcepack/delight-map
+'''

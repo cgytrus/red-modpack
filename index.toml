@@ -169,6 +169,11 @@ hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
 
 [[files]]
+file = "mods/delight-map.pw.toml"
+hash = "e17cf4049f38090c8536c5f7a66cd4172bb2590d80438bd7319fbbb45739c599"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "160a9333652a87200eb72cee3511073734a6e40c0b93ec9800f0a8f8efd43415"
 metafile = true
