@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/delight-map.pw.toml"
-hash = "b1854dad3710a037ebb52e8d0565f80f8d9bae39a479ca1503673db9a55247ec"
+hash = "4525b8246ca2f3bc8c71b23a7663201ac6ecb29a339ab0d937b9941f54e344b1"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
+hash = "ac1bc64f460718e8038033feedcfd8679c82b055bf45b9d83a6e5e9172d92d5a"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3dfa40dd3fd5f597f0f2d253e086d2876e8cfdc0266d74497d03f893611adc4c"
+hash = "38d5a309095c272b7cb305e63bea744ab60052b36bda04051bd48914386ddbf1"
 metafile = true
 
 [[files]]
