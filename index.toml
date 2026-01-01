@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
+hash = "80737a436e23c0c346acc6142eb9e6d52335873532f20a176ea9b6a0070d3704"
 metafile = true
 
 [[files]]
@@ -700,12 +700,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4e72b69028c695afd890585dd649e17fa142a326eaa65598a3605f899a8f87cb"
+hash = "1749bb9bd29ba198f4f24c898cb687f1c62cbc76459b8e0096bb56027c656d7d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1d14770b08bd1edbea108fe05599c2f0a518fc5d3896dd6e7db47a6712a0d12f"
+hash = "393740834928a006b239b1c20b0a0a7ae7c96ffb60146380dd28115a2c442160"
 metafile = true
 
 [[files]]
