@@ -699,6 +699,11 @@ hash = "d6749124a49143061e91b129eb2a0c854e0b3ca4c835be238b0f3fe3c961271f"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/tt20.pw.toml"
 hash = "49fee5842d9d09bd291d74a708c97e088ac87b40dafa4dda10f059581dfa8eff"
 metafile = true
