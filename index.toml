@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/delight-map.pw.toml"
-hash = "4525b8246ca2f3bc8c71b23a7663201ac6ecb29a339ab0d937b9941f54e344b1"
+hash = "c71d62c2346bbbffefa693bb56b25537097eb30f1298c05d75b9e8989b2f86f6"
 metafile = true
 
 [[files]]
