@@ -354,6 +354,11 @@ hash = "a3b32f4ec1ac3ec710904d16084c2631fffb06e49842f07c8a3b7981b1d370f8"
 metafile = true
 
 [[files]]
+file = "mods/ismah.pw.toml"
+hash = "586ede84dc1dcf0f142bd53b723bc55423b506f5b2fdf5f09b611986dc531e99"
+metafile = true
+
+[[files]]
 file = "mods/item-descriptions.pw.toml"
 hash = "98a20214da5430fde6aefe553ce67e5d7f4711ffcd66d1575ea5a2261845d1d8"
 metafile = true
