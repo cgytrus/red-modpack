@@ -169,6 +169,11 @@ hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "350d9f8e549db2855a47233dfb8e108c9ebc3373bebb5d0a65ade846bd85a7d4"
+metafile = true
+
+[[files]]
 file = "mods/delight-map.pw.toml"
 hash = "4525b8246ca2f3bc8c71b23a7663201ac6ecb29a339ab0d937b9941f54e344b1"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
