@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/tis-3d.pw.toml"
-hash = "6e4a6209188ae62c2a16ad6b82ac2fec331b0d4e3d18d29e1249f7737f515464"
+hash = "e56e37d61f1bd6b0f2bc6c166d4f0784f70e0bf52878b785b13a113f9671748e"
 metafile = true
 
 [[files]]

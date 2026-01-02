@@ -1,11 +1,11 @@
 name = "TIS-3D"
-filename = "tis3d-MC1.21.1-fabric-0.0.0+261888e.jar"
+filename = "tis3d-MC1.21.1-fabric-0.0.0+a925693.jar"
 side = "both"
 
 [download]
-url = "https://github.com/cgytrus/TIS-3D/releases/download/dev/tis3d-MC1.21.1-fabric-0.0.0%2B261888e.jar"
+url = "https://github.com/cgytrus/TIS-3D/releases/download/dev/tis3d-MC1.21.1-fabric-0.0.0%2Ba925693.jar"
 hash-format = "sha256"
-hash = "55cc0c157328d3b8dd2a2ec7dd73525b635eb088727d5fbb58658a2b8b50ad8f"
+hash = "2ee4d4197832006c6595aef26e522edc0db49d7523ed1db14ba3ade42832ff9e"
 
 [update]
 [update.github]
