@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b237026e1ed2780812c42a4649d7bf4e61d2ec20d09f9677ad8833ac3680a2e5"
+hash = "243702e706fa25696aced70acb35ef9c34577e2ebba6c3e8d1682697260606a4"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "38d9f347ded82481dc83b74b85791cdfc6db6a97df31d5397da06f51863a4d70"
+hash = "9242bcf4f264ad0b5813ff630cb2080374475aa5aa9caa132da014ef024cc3a2"
 metafile = true
 
 [[files]]
