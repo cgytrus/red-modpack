@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "752a6d37f41a9f9d62a7fad11d0d0f2793f25692b62e8e21246cdc8616b7e4d5"
+hash = "efb8db2457d573544b1d73f8a4e63099503c76b848c01ac48948ddd368faf2c0"
 metafile = true
 
 [[files]]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/cgytrus/Spelunkery/releases/download/dev/spelunkery-1.21.1-0.4.0-BETA1-fabric.jar"
 hash-format = "sha256"
-hash = "98c9dc6837ab5b97a40f99becff133259a642995ca36bbf49b055caa2b00d198"
+hash = "0f4144dd49334f18d9fdf37b91d4a0114e136e101acb4bd8e898c556030e2bf3"
 
 [update]
 [update.github]
