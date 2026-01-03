@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbbg.pw.toml"
-hash = "5f281dddb74a67c9a88206c32d6cdcc5afd8faf0d74f7ddfd248d2ac7fe17fb0"
+hash = "689314670e5186e6c376da01146b8d74581d98872fa390f8f21bda5891bedc18"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/natural-motion-blur.pw.toml"
-hash = "2313f3177d380668b5e270e4213940363aec70b8e0d401796a66e3a2d088b8be"
+hash = "34175724dc363a2204c7879b6c41e3187ebdb85f39de9ef2c668b54c905a003d"
 metafile = true
 
 [[files]]
