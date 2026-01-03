@@ -15,4 +15,8 @@ version = "NMDwkITy"
 [option]
 optional = true
 default = false
-description = "adds motion blur, you probably dont want this tbh but i like it"
+description = '''
+adds motion blur, you probably dont want this tbh but i like it
+
+!! INCOMPATIBLE WITH CBBG !! CHOOSE ONLY ONE OR THE OTHER !!
+'''
