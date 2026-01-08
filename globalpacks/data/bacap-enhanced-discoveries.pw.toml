@@ -1,0 +1,13 @@
+name = "BlazeandCave's Advancement Pack Enhanced Discoveries"
+filename = "BACAP_Enhanced_Discoveries_2.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx9yFN48/versions/BbfzmFtj/BACAP_Enhanced_Discoveries_2.4.zip"
+hash-format = "sha256"
+hash = "c848dc13dc29353ccce3b94cea26fc5193d9b1869d8184239f7388d9f4b9993d"
+
+[update]
+[update.modrinth]
+mod-id = "Qx9yFN48"
+version = "BbfzmFtj"

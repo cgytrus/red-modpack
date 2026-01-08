@@ -1,6 +1,6 @@
 name = "Soaring Phantoms"
 filename = "soaring_phantoms-1.2.2+1.21.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/d4Rp6J8P/versions/X6so5AqL/soaring_phantoms-1.2.2%2B1.21.1-fabric.jar"
