@@ -214,11 +214,6 @@ hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "5be3d07f75f9af8ca2406fc1dc6c3b1765ed07804cfc2614517fa4d6e0cc9e5b"
-metafile = true
-
-[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "ede11788835bc12a73fa0c1b532139a2dac0ba8e690451b2b887901117f2da4a"
 metafile = true
@@ -496,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
