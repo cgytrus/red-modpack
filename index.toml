@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "733f8959368ac02bc9703b85bf6e615daa85aeb9254aaa07eba4a0692922d794"
+hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
 metafile = true
 
 [[files]]
