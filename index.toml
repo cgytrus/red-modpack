@@ -16,6 +16,10 @@ hash = "cb4500506a220507350c2eb370073da4b558183e4e3f53d0aa19fe7fe76cf649"
 preserve = true
 
 [[files]]
+file = "config/enchantmentdisabler/config.toml"
+hash = "dd0a44c51dbab9153acc9ae8e84cd96784941464ec1c553143eb2ef935168ae0"
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "ac7e33aadef79f346a1ecb62f23da443a4fb289f3ef883c0500822f30c989060"
 
@@ -251,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disabler.pw.toml"
+hash = "4b90a181883115f95724390a8911ca953652238345d45417e0ebcf10416fb86b"
 metafile = true
 
 [[files]]
