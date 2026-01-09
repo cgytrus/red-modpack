@@ -593,6 +593,11 @@ hash = "6a9307b0c3b758faba13ab51388ccbb16ad2281bbd02c8e3655405fcdd7152fa"
 metafile = true
 
 [[files]]
+file = "mods/rose-gold-equipment.pw.toml"
+hash = "5c8fe9bd21c8b23ed8f566b4a8ed6bb20d46f56b277464714daae56b57433da3"
+metafile = true
+
+[[files]]
 file = "mods/rsls.pw.toml"
 hash = "32c2ce6f7a0be327fb8341a82ee35768a3cecc186116d2f135e5fc95e2f56292"
 metafile = true
