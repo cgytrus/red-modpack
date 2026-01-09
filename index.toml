@@ -339,11 +339,6 @@ hash = "40b201d2061f1a0df66401984c5242a8786f24f775f9f15991a280c2a80dc715"
 metafile = true
 
 [[files]]
-file = "mods/hud-compass-mod.pw.toml"
-hash = "73aac595824c392231da5861cb7c55145fb633f76730c4bb3a2a3ab430527c34"
-metafile = true
-
-[[files]]
 file = "mods/illuminated.pw.toml"
 hash = "c045dc9681da3ae49ffe0e511bd2093d35edc9708ada5dc83e321e76b640009b"
 metafile = true
