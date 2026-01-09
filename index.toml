@@ -59,6 +59,74 @@ hash = "fd4f034506123aa1bf8c7236ca6e2c1a7a6cf9798754af0a9dea346af3708bc0"
 metafile = true
 
 [[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/biomes/cold_feet.json"
+hash = "35f5dc52ada080340c10676b5d4cb4ee576e4944470e8f7c22d769baf307a9bb"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/biomes/one_with_the_forest.json"
+hash = "099d4d637ac6836d86e82dd9a183fb58eac0f5a7264203d10368cb8e148d6424"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/biomes/warm_feet.json"
+hash = "5dbab0d06dc95b49952393b8ad130b3422c833eb82c5bde3bfdd3e868444543a"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/biomes/wet_feet.json"
+hash = "c1ea743c0c930ed4a93b714258618a92f838d520c694434ddd95b9272eb3693c"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/challenges/explorer_of_worlds.json"
+hash = "a9da23c3713d618e75af55bfa78b6aa001b542f7830ad038042754bce923e2c7"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/challenges/i_am_loot.json"
+hash = "17cccce530247f9d8b8c3ebb8768d196b6c91df5f5cd810b2e58386d6e7a37e9"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/challenges/ultimate_enchanter.json"
+hash = "f53caf192b174fc6937c56dd9d68b1e4060f57bb337428d505f5324fa6e5757d"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/enchanting/armor_for_the_masses.json"
+hash = "f605114e6d4deb91551265ce9ffd7c93c2d7becbc26bc100809bbb010695b02c"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/enchanting/complete_enchanter.json"
+hash = "c199b877c4996ca69fe177b4b13c8be7f0436c276d99f4786f049c8dd513d639"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/enchanting/master_enchanter.json"
+hash = "1135f84e84e765d728d15356687c7ef4fca7f2d3ab59d631db14f0c9af724858"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/end/void_walker.json"
+hash = "f03af30f3c04e72d1a2b669619a32bcb09d20a6a8aa507c554f0e82d42393692"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/mining/mineral_collection.json"
+hash = "8812494c98762490717c428fdd098929df7d0c0dd14f7fdf9ab4f30353ab581c"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/mining/moar_broken_tools.json"
+hash = "d622c3264e512f4ece8dc3ca9683d8e59b1b170ae7e4598ad8000e48d5a7b540"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/mining/spelunker.json"
+hash = "fafe91af2e1a4d9c7d11c694b9d099ace0902570a37c187ea0e75455713d6849"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/blazeandcave/advancement/mining/where_are_all_your_clothes.json"
+hash = "1faf501d5201e7800011d4065e673bfcc02de5bb402a4bdf50ea34f3003d1250"
+
+[[files]]
+file = "globalpacks/data/bacap-red/data/minecraft/advancement/nether/all_effects.json"
+hash = "5969b5f6fc676dc990f60f200c8aef74e0b34b347e61ca5d7a984082b2645041"
+
+[[files]]
+file = "globalpacks/data/bacap-red/pack.mcmeta"
+hash = "8081ae51d406ab8ab5bb307e7646d6d4b484be1c319c16b58a0a8baf264ca4c2"
+
+[[files]]
 file = "globalpacks/data/blazeandcaves-advancements-pack.pw.toml"
 hash = "d986deb96810af01a2e327dae9523369f101297528491a0d3789d21369899cf2"
 metafile = true
